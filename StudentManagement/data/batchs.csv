@@ -1,0 +1,11 @@
+classId ,className                            ,teacherId
+L001    ,Lap trinh Java                       ,T001
+L002    ,Lap trinh Website                    ,T002
+L003    ,Lap trinh huong doi tuong            ,T003
+L004    ,Toan roi rac                         ,T004
+L005    ,He quan tri co so du lieu SQL Server ,T005
+L006    ,Tin hoc van phong                    ,T006
+L007    ,Lap trinh PHP                        ,T007
+L008    ,Ngon ngu may                         ,T008
+L009    ,Lap trinh WinForms                   ,T009
+L010    ,Tieng Anh chuyen nganh               ,T010

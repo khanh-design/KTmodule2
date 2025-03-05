@@ -1,0 +1,11 @@
+teacherId ,name             ,dateOfBirth ,gender ,phone
+T001      ,Le Thi Binh      ,15/05/1975  ,Nu     ,0912345678
+T002      ,Nguyen Van Cuong ,10/10/1980  ,Nam    ,0908765432
+T003      ,Tran Thi Dieu    ,20/11/1970  ,Nu     ,0987654321
+T004      ,Pham Van Dung    ,25/12/1975  ,Nam    ,0912345678
+T005      ,Hoang Thi Giang  ,30/01/1980  ,Nu     ,0908765432
+T006      ,Tran Van Gioi    ,05/02/1970  ,Nam    ,0987654321
+T007      ,Le Thi Huyen     ,10/03/1975  ,Nu     ,0912345678
+T008      ,Nguyen Van Hung  ,15/04/1980  ,Nam    ,0908765432
+T009      ,Tran Thi Kim     ,20/05/1970  ,Nu     ,0987654321
+T010      ,Pham Van Linh    ,25/06/1975  ,Nam    ,0912345678
